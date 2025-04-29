@@ -1,0 +1,3 @@
+[submodule "h2ocontrol-api"]
+	path = h2ocontrol-api
+	url = https://github.com/Bhdc54/h2ocontrol-api
